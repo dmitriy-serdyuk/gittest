@@ -3,4 +3,4 @@ gittest
 
 Test git and github
 
-Some changes
+Added feature1
